@@ -111,3 +111,9 @@ pictureOfMaze :: Picture
 ![Пример](media/sokoban_map.jpg)
 
 [Решение](Solutions/1.3.hs), [Разбор](https://youtu.be/OtoZRp8twbY).
+
+# Лекция №2
+
+[Запись лекции](https://youtu.be/GgmFWDZSqLE).
+
+Код с лекции: [GitHub](Lectures/Lec2.hs), [CodeWorld](https://code.world/haskell#P_zf_4OMwaBegYiSnS16xUQ).
