@@ -1,14 +1,18 @@
 # Haskell via Sokoban
 
-# Лекция №1
-
-[Код с лекции](https://code.world/haskell#PLdEYQSrD0LMQywOPfzcYcA).
+Поиграть в игру, которую вы напишете, если сделаете все ДЗ, можно [тут](https://code.world/run.html?mode=haskell&dhash=Do_TSjo_kT2I_94n5lv6w4Q).
 
 Среда разработки: https://code.world/haskell
 
 Шаблон и инструкция для желающих работать с кодом локально: https://github.com/artemohanjanyan/codeworld-template
 
 Занятия ведутся по [этому материалу](https://haskell-via-sokoban.nomeata.de/).
+
+# Лекция №1
+
+[Запись лекции](https://youtu.be/_6pB7kkFO3Y).
+
+Код с лекции: [GitHub](Lectures/Lec1.hs), [CodeWorld](https://code.world/haskell#PLdEYQSrD0LMQywOPfzcYcA).
 
 ## Домашнее задание №1
 
@@ -35,6 +39,8 @@
 
 ![Пример](media/traffic_light.gif)
 
+[Решение](Solutions/1.1.hs), [Разбор](https://youtu.be/7meF_qrOqx4).
+
 ### 1.2 Цветущие деревья
 На лекции мы нарисовали дерево, но оно выглядит суховато.
 
@@ -54,6 +60,8 @@ tree n = polyline [(0,0),(0,1)] & translated 0 1 (
 Пример:
 
 ![Пример](media/tree.gif)
+
+[Решение](Solutions/1.2.hs), [Разбор](https://youtu.be/2fVzBF8MB-M).
 
 ### 1.3 Поле для игры Сокобан
 К концу курса вы реализуете игру Сокобан. Можете почитать про игру [на википедии](https://uk.wikipedia.org/wiki/Sokoban), там ещё есть классная анимация.
@@ -101,3 +109,5 @@ pictureOfMaze :: Picture
 Пример:
 
 ![Пример](media/sokoban_map.jpg)
+
+[Решение](Solutions/1.3.hs), [Разбор](https://youtu.be/OtoZRp8twbY).
