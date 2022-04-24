@@ -172,3 +172,11 @@ resetableActivityOf ::
 - должен быть связным (не должно быть недостижимых полей земли),
 - должен быть замкнутым (игрок не должен иметь возможность выйти на пустые поля),
 - должен быть решаемым ([вот](https://uk.wikipedia.org/wiki/Sokoban#%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0) правила).
+
+### Разбор
+
+[Решение](Solutions/2.hs), [Разбор](https://youtu.be/qnup96qFTl8).
+
+### Дополнительное задание
+
+[GitHub](Extra/ChurchEncoding.hs), [CodeWorld](https://code.world/haskell#P4U9RnIZOxKDPvDTR7gkF1g).
