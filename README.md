@@ -180,3 +180,9 @@ resetableActivityOf ::
 ### Дополнительное задание
 
 [GitHub](Extra/ChurchEncoding.hs), [CodeWorld](https://code.world/haskell#P4U9RnIZOxKDPvDTR7gkF1g).
+
+# Лекция №3
+
+[Запись лекции](https://youtu.be/WKi5GJwNpL0).
+
+Код с лекции: [GitHub](Lectures/Lec3.hs), [CodeWorld](https://code.world/haskell#PlEzzsVFMnXxLjwn9CU8UjQ).
